@@ -2,6 +2,8 @@
 
 Полностью изолированная мини-игра рыбалки из проекта PPLBandage.
 
+<img src="./assets/andcool-quote.png"></img>
+
 ## Разработка
 
 ```bash
